@@ -1,4 +1,4 @@
-# openssl-cross-mobile: OpenSSL Cross-Platform Builder for iOS/Android platforms
+# OpenSSL Builder for iOS/Android platforms
 
 A utility for building OpenSSL libraries across Android and iOS platforms from a macOS host
 
